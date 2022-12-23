@@ -1,4 +1,4 @@
-<h1 align="center">Botão de retorno ao topo / Back to top button / </h1>
+<h1 align="center">Botão de retorno ao topo / Back to top button </h1>
 
 ## :memo: Descrição / Description
 Projeto de criação de um botão que retorna ao topo da página. / Project to create a button that returns to the top of the page.
